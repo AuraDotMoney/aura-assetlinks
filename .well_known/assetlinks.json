@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "money.aura.app",
+      "sha256_cert_fingerprints": [
+        "A2:00:C4:4E:55:E6:4B:5A:3C:D8:B0:F1:1F:AD:6F:D5:DE:CA:79:D3:D1:BF:33:9B:8B:1B:60:5D:64:20:5F:3C"
+      ]
+    }
+  }
+]
