@@ -1,8 +1,13 @@
 {
-  "apps": [],
   "applinks": {
-    "apps": [
-      "7NB2XS96WA.money.aura.app"
+    "apps": [],
+    "details": [
+      {
+        "appID": "7NB2XS96WA.money.aura.app",
+        "paths": [
+          "*"
+        ]
+      }
     ]
   },
   "webcredentials": {
